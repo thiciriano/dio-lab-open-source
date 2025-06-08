@@ -17,3 +17,8 @@ Estou sempre em busca de aprender coisas novas e compartilhar conhecimentos com 
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github)
+
+![Linux](https://img.shields.io/badge/linux-151747?style=for-the-badge&logo=linux)
+
+
+
