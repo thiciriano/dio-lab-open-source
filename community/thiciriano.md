@@ -7,3 +7,13 @@ Estou sempre em busca de aprender coisas novas e compartilhar conhecimentos com 
 - Desenvolvimento Web
 - Desenvolvimento de Jogos
 - UX Design
+
+## Tecnologias
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) 
+
+![MySQL](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite)
+
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github)
